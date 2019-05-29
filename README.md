@@ -30,7 +30,7 @@ htpasswd_users:
 
 ## Dependencies
 
-N/A
+passlib
 
 ## Example Playbook
 
